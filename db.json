@@ -6,7 +6,8 @@
       "first_name": "FirstName1",
       "last_name": "LastName1",
       "email": "email1@exml.com",
-      "password": "123_qwer"
+      "password": "123_qwer",
+      "user_type": ("Admin", "Driver')
     },
     {
       "id": 2,
@@ -23,6 +24,16 @@
       "last_name": "LastName3",
       "email": "email3@exml.com",
       "password": "123_qwer"
+    }
+  ],
+  "user_types": [
+    {
+      "id": 1,
+      "type": "admin"
+    },
+    {
+      "id": 2,
+      "type" "driver"
     }
   ]
 }
