@@ -1,1 +1,28 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "UserName1",
+      "first_name": "FirstName1",
+      "last_name": "LastName1",
+      "email": "email1@exml.com",
+      "password": "123_qwer"
+    },
+    {
+      "id": 2,
+      "username": "UserName2",
+      "first_name": "FirstName2",
+      "last_name": "LastName2",
+      "email": "email2@exml.com",
+      "password": "123_qwer"
+    },
+    {
+      "id": 3,
+      "username": "UserName3",
+      "first_name": "FirstName3",
+      "last_name": "LastName3",
+      "email": "email3@exml.com",
+      "password": "123_qwer"
+    },
+  ]
+}
